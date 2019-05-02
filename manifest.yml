@@ -1,0 +1,6 @@
+---
+applications:
+- name: actuator
+random-route: true
+buildpacks:
+- dotnet_core_buildpack
